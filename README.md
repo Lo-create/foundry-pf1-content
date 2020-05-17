@@ -20,5 +20,6 @@ TODO:
 - check if everything is actually there
 - icons 
 - makros
+- include 3rd party feats
 
 If you want to help, head over to the #pf1 channel on the The Foundry discord server.
