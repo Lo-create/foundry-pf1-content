@@ -10,6 +10,14 @@ Any files added to the systems folder will be deleted and replaced if the system
 
 Since what I am doing is far from professional, I will just put the version history in this readme file. 
 
+Items:
+
+Version 1.0 This is the first draft. It includes Adventuring Gear, Alchemical Creations, Animal Gear, Books and Writing Supplies, Clothing and Containers and Locks, Keys, Tools and Kits as to be found on https://www.d20pfsrd.com/equipment/ 
+
+TODO: 
+- check if everything is actually there
+- icons 
+
 Feats:
 
 Version 1.1 This is the current version. Feats' names got cut off if they contained a quotation mark. Fixed it.
